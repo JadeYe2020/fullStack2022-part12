@@ -1,0 +1,74 @@
+Script started on 2022-10-10 13:18:54-03:00 [TERM="xterm-256color" TTY="/dev/cons0" COLUMNS="131" LINES="13"]
+[6n[6n[m[?25h]0;MINGW64:/c/Full_Stack_open_2022_separate/part12-containers-applications
+[32mJadeYe@LAPTOP-U94IK15Q [35mMINGW64 [33m/c/Full_Stack_open_2022_separate/part12-containers-applications[36m (main)[m[K
+$[1Cexit[2Cdocker container run -it ubuntu bash[2Cexit[K[2C[Kdocker start -i compan[Kssionate_va[Killani
+[?2004hroot@ba2c6f4207a5:/# ]0;root@ba2c6f4207a5: /root@ba2c6f4207a5:/#[K[1Cno ano /usr/src/app/index.js[?2004l
+[25l[?2004h[22;0;0t[4l[?7h[H[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[131C[30m[47m[H  GNU nano 6.2                                           /usr/src/app/index.js[K[m
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[57X[30m[47m[57C[ Read 0 lines ][m[K[30m[47m
+^G[m Help[9X[30m[47m[9C^O[m Write Out    [30m[47m^W[m Where Is     [30m[47m^K[m Cut[10X[30m[47m[10C^T[m Execute      [30m[47m^C[m Location     [30m[47mM-U[m Undo        [30m[47mM-A[m Set Mark       [30m[47m
+^X[m Exit[9X[30m[47m[9C^R[m Read File    [30m[47m^\[m Replace      [30m[47m^U[m Paste        [30m[47m^J[m Justify      [30m[47m^/[m Go To Line   [30m[47mM-E[m Redo        [30m[47mM-6[m Copy[K[2;1H[?25h[?25l[30m[47m[H  GNU nano 6.2                                           /usr/src/app/index.js *[m
+c[79X[?25honsolo.  e.log('He[25lconsole.log('Hel[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[2;17H[?25hlow [42m [m World[25l[2;13H[?25h[1m[95m'Hello World'[m)[25l[30m[47m[11;1HSave modified buffer?[K
+ Y[m Yes[K[30m[47m
+ N[m No[11X[30m[47m[11C^C[m Cancel[K[106C[11;23H[?25h[25l[30m[47mFile Name to Write: /usr/src/app/index.js[70X
+^G[m Help[25X[30m[47m[25CM-D[m DOS Format[18X[30m[47m[18CM-A[m Append[22X[30m[47m[22CM-B[m Backup File[30m[47m
+^C[m Cancel[23X[30m[47m[23CM-M[m Mac Format[18X[30m[47m[18CM-P[m Prepend[21X[30m[47m[21C^T[m Browse      [11;42H[?25h[25l[59X[30m[47m[59C[ Cancelled ][m[K[30m[47m
+^G[m Help[9X[30m[47m[9C^O[m Write Out    [30m[47m^W[m Where Is     [30m[47m^K[m Cut[10X[30m[47m[10C^T[m Execute      [30m[47m^C[m Location     [30m[47mM-U[m Undo        [30m[47mM-A[m Set Mark       [30m[47m
+^X[m Exit[9X[30m[47m[9C^R[m Read File    [30m[47m^\[m Replace      [30m[47m^U[m Paste        [30m[47m^J[m Justify      [30m[47m^/[m Go To Line   [30m[47mM-E[m Redo        [30m[47mM-6[m Copy[K[2;27H[?25h[25l[30m[47m[11;59H[ Writing... ][m[30m[47m[1;58H/usr/src/app/index.js  [m[2;58H[23X
+[23X
+[23X
+[23X
+[23X
+[23X
+[23X
+[23X
+[23X[30m[47m
+[ Wrote 1 line ][m       [2;27H[?25h[25l[23;0;0t[?2004l[H[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[32m
+JadeYe@LAPTOP-U94IK15Q [35mMINGW64 [33m/c/Full_Stack_open_2022_separate/part12-containers-applications[36m (main)[m[K
+$ docker start -i compassionate_villani[K
+root@ba2c6f4207a5:/# nano /usr/src/app/index.js[K
+[K[?25h[?2004hroot@ba2c6f4207a5:/#[K[1Cexit[?2004l
+exit
+]0;MINGW64:/c/Full_Stack_open_2022_separate/part12-containers-applications
+[32mJadeYe@LAPTOP-U94IK15Q [35mMINGW64 [33m/c/Full_Stack_open_2022_separate/part12-containers-applications[36m (main)[m[K
+$[1Cexit
+exit
+
+Script done on 2022-10-10 13:21:29-03:00 [COMMAND_EXIT_CODE="0"]
